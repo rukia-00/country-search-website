@@ -1,8 +1,12 @@
 # Country Search Website
 
-A simple country search website built with HTML, CSS, and JavaScript.
+A responsive country search website built with HTML, CSS, and JavaScript.
 
 ![Country Search Website](screenshot.png)
+
+## Live Demo
+
+[View the live website](https://rukia-00.github.io/country-search-website/)
 
 ## Features
 
@@ -13,32 +17,30 @@ A simple country search website built with HTML, CSS, and JavaScript.
 - Display population
 - Display currencies
 - Loading and error messages
-- Responsive design for mobile devices
+- Responsive design
 - Enter key support for searching
 
 ## Technologies
 
-- HTML
-- CSS
+- HTML5
+- CSS3
 - JavaScript
 - Fetch API
 - REST API
-
-## Live Demo
-
-https://rukia-00.github.io/country-search-website/
+- Git & GitHub
+- GitHub Pages
 
 ## What I Learned
 
-While building this project, I practiced:
+This project helped me practice:
 
 - Working with APIs using `fetch()`
 - Handling JSON data
-- Using promises and `.then()`
-- Handling errors with `.catch()`
+- Working with promises
+- Error handling with `.catch()`
 - Working with arrays and objects
 - Using `map()` and `join()`
 - DOM manipulation
-- Responsive CSS
+- Responsive web design
 - Git and GitHub
 - Deploying a website with GitHub Pages
