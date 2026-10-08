@@ -2,6 +2,8 @@
 
 A simple country search website built with HTML, CSS, and JavaScript.
 
+![Country Search Website](screenshot.png)
+
 ## Features
 
 - Search for countries by name
